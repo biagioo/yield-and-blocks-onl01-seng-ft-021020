@@ -24,3 +24,10 @@ end
     puts "Hi, #{name}"
   end 
 end
+
+def hello_t(array)
+  i = 0 
+  while i < array.length 
+    i += 1 
+  end
+end 
